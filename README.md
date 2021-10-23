@@ -1,1 +1,1 @@
-NT Bot used for testing reasons only.
+NT Bot used for educational purposes only.
