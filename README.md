@@ -1,1 +1,1 @@
-NT Bot used fpr testing reasons only.
+NT Bot used for testing reasons only.
